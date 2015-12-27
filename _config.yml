@@ -1,0 +1,28 @@
+name: UncannyPixel
+favicon: null
+layout_spectrum: 0.3194024523254484
+typography_spectrum: 0.5553682413883507
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1619979809038341
+  lightness: 0.14887522673234344
+  saturation: 0.2506849654018879
+  rhythmicContrast: 0.55976602435112
+purpose: []
